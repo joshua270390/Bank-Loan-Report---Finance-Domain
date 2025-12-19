@@ -67,5 +67,9 @@ Then I have created a columns for Month and Month Name inside the date table
       - Good vs Bad Loan
     
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2be3176f-e6f3-4fd8-8592-c829536a6aa5" />
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9e68643c-db0d-4d24-b872-4cb255865c86" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dc7861c4-a795-4ddc-9a19-efcf71570ebe" />
+
